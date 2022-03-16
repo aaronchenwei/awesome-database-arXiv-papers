@@ -11,7 +11,12 @@ A curated list of awesome arXiv papers on database
 
 - [Temporal Regular Path Queries](https://arxiv.org/abs/2107.01241)
 - [G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs](https://arxiv.org/abs/2203.06393)
+- [Banyan: A Scoped Dataflow Engine for Graph Query Service](https://arxiv.org/abs/2202.12530)
 
 ## Stream Processing
 
 - [Factor Windows: Cost-based Query Rewriting for Optimizing Correlated Window Aggregates](https://arxiv.org/abs/2008.12379)
+
+## LSM Tree
+
+- [Constructing and Analyzing the LSM Compaction Design Space](https://arxiv.org/abs/2202.04522)
