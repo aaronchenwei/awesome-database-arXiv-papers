@@ -2,6 +2,10 @@
 
 A curated list of awesome arXiv papers on database
 
+## AI4DB & DB4AI
+
+- [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
+
 ## Graph related
 
 - [Temporal Regular Path Queries](https://arxiv.org/abs/2107.01241)
