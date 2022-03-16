@@ -7,7 +7,7 @@ A curated list of awesome arXiv papers on database
 - [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
 - [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
 
-## Graph related
+## Graph Processing
 
 - [Temporal Regular Path Queries](https://arxiv.org/abs/2107.01241)
 - [G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs](https://arxiv.org/abs/2203.06393)
