@@ -4,6 +4,7 @@ A curated list of awesome arXiv papers on database
 
 ## AI4DB & DB4AI
 
+- [UniSAr: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL](https://arxiv.org/abs/2203.07781)
 - [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
 - [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
 
