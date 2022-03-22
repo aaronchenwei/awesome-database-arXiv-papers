@@ -20,4 +20,5 @@ A curated list of awesome arXiv papers on database
 
 ## LSM Tree
 
+- [The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection](https://arxiv.org/abs/2203.09619)
 - [Constructing and Analyzing the LSM Compaction Design Space](https://arxiv.org/abs/2202.04522)
