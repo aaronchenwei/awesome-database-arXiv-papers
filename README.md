@@ -27,3 +27,9 @@ A curated list of awesome arXiv papers on database
 
 - [BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud](https://arxiv.org/abs/2203.11472)
   - twitter
+
+## New Hardware
+
+- [Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory](https://arxiv.org/abs/2112.07320)
+  - SIGMOD 2022, Tsinghua
+
