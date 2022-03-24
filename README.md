@@ -22,6 +22,7 @@ A curated list of awesome arXiv papers on database
 ## LSM Tree
 
 - [Constructing and Analyzing the LSM Compaction Design Space](https://arxiv.org/abs/2202.04522)
+- [Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems](https://arxiv.org/abs/2004.10360)
 
 ## Cloud
 
@@ -34,3 +35,8 @@ A curated list of awesome arXiv papers on database
   - SIGMOD 2022, Tsinghua
 - [How to use Persistent Memory in your Database](https://arxiv.org/abs/2112.00425)
 - [Relational Memory: Native In-Memory Accesses on Rows and Columns](https://arxiv.org/abs/2109.14349)
+
+
+## KV Stores
+
+- [Palpatine: Mining Frequent Sequences for Data Prefetching in NoSQL Distributed Key-Value Stores](https://arxiv.org/abs/2002.00215)
