@@ -13,6 +13,7 @@ A curated list of awesome arXiv papers on database
 - [Temporal Regular Path Queries](https://arxiv.org/abs/2107.01241)
 - [G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs](https://arxiv.org/abs/2203.06393)
 - [Banyan: A Scoped Dataflow Engine for Graph Query Service](https://arxiv.org/abs/2202.12530)
+- [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/abs/1910.09017)
 
 ## Stream Processing
 
