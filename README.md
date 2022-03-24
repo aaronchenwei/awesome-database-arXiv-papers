@@ -32,4 +32,5 @@ A curated list of awesome arXiv papers on database
 
 - [Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory](https://arxiv.org/abs/2112.07320)
   - SIGMOD 2022, Tsinghua
-
+- [How to use Persistent Memory in your Database](https://arxiv.org/abs/2112.00425)
+- [Relational Memory: Native In-Memory Accesses on Rows and Columns](https://arxiv.org/abs/2109.14349)
