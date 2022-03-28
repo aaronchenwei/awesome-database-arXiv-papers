@@ -10,6 +10,7 @@ A curated list of awesome arXiv papers on database
 
 ## Graph Processing
 
+- [An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph](https://arxiv.org/abs/2010.12243)
 - [Temporal Regular Path Queries](https://arxiv.org/abs/2107.01241)
 - [G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs](https://arxiv.org/abs/2203.06393)
 - [Banyan: A Scoped Dataflow Engine for Graph Query Service](https://arxiv.org/abs/2202.12530)
