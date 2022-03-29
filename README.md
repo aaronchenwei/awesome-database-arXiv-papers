@@ -4,12 +4,15 @@ A curated list of awesome arXiv papers on database
 
 ## AI4DB & DB4AI
 
+- [Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases](https://arxiv.org/abs/2203.14144)
 - [UniSAr: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL](https://arxiv.org/abs/2203.07781)
 - [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
 - [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
 
 ## Graph Processing
 
+- [Regular Path Query Evaluation Sharing a Reduced Transitive Closure Based on Graph Reduction](https://arxiv.org/abs/2111.06918)
+- [Biolink Model: A Universal Schema for Knowledge Graphs in Clinical, Biomedical, and Translational Science](https://arxiv.org/abs/2203.13906)
 - [An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph](https://arxiv.org/abs/2010.12243)
 - [Temporal Regular Path Queries](https://arxiv.org/abs/2107.01241)
 - [G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs](https://arxiv.org/abs/2203.06393)
