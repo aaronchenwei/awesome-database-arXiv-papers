@@ -27,6 +27,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## Stream Processing
 
+- [To Migrate or not to Migrate: An Analysis of Operator Migration in Distributed Stream Processing](https://arxiv.org/abs/2203.03501)
 - [The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection](https://arxiv.org/abs/2203.09619)
 - [Factor Windows: Cost-based Query Rewriting for Optimizing Correlated Window Aggregates](https://arxiv.org/abs/2008.12379)
 
