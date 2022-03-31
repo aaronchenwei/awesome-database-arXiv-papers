@@ -11,6 +11,7 @@ A curated list of awesome arXiv papers on database
 
 ## Graph Processing
 
+- [An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs](https://arxiv.org/abs/2203.16123)
 - [Regular Path Query Evaluation Sharing a Reduced Transitive Closure Based on Graph Reduction](https://arxiv.org/abs/2111.06918)
 - [Biolink Model: A Universal Schema for Knowledge Graphs in Clinical, Biomedical, and Translational Science](https://arxiv.org/abs/2203.13906)
 - [An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph](https://arxiv.org/abs/2010.12243)
@@ -43,3 +44,7 @@ A curated list of awesome arXiv papers on database
 ## KV Stores
 
 - [Palpatine: Mining Frequent Sequences for Data Prefetching in NoSQL Distributed Key-Value Stores](https://arxiv.org/abs/2002.00215)
+
+## Benchmark
+
+- [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://arxiv.org/abs/2203.16095)
