@@ -11,6 +11,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## Graph Processing
 
+- [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://arxiv.org/abs/2201.10051)
 - [Triangle and Four Cycle Counting with Predictions in Graph Streams](https://arxiv.org/abs/2203.09572)
 - [Brooks' Theorem in Graph Streams: A Single-Pass Semi-Streaming Algorithm for Δ -Coloring](https://arxiv.org/abs/2203.10984)
 - [GraphBLAS on the Edge: High Performance Streaming of Network Traffic](https://arxiv.org/abs/2203.13934)
