@@ -1,6 +1,6 @@
 # awesome-database-arXiv-papers
 
-A curated list of awesome arXiv papers on database
+A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## AI4DB & DB4AI
 
