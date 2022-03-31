@@ -11,6 +11,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## Graph Processing
 
+- [GraphBLAS on the Edge: High Performance Streaming of Network Traffic](https://arxiv.org/abs/2203.13934)
 - [Approximately Counting Subgraphs in Data Streams](https://arxiv.org/abs/2203.14225)
 - #3 - [GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams](https://arxiv.org/abs/2203.14927)
 - [An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs](https://arxiv.org/abs/2203.16123)
