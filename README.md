@@ -62,3 +62,8 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 ## Incremental view maintenance
 
 - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://arxiv.org/abs/2203.16684)
+
+## Filter
+
+- [Prefix Filter: Practically and Theoretically Better Than Bloom](https://arxiv.org/abs/2203.17139)
+- 
