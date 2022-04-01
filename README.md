@@ -54,4 +54,11 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## Benchmark
 
+- [The LDBC Social Network Benchmark](https://arxiv.org/abs/2001.02299)
+- [The LDBC Graphalytics Benchmark](https://arxiv.org/abs/2011.15028)
 - [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://arxiv.org/abs/2203.16095)
+
+
+## Incremental view maintenance
+
+- [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://arxiv.org/abs/2203.16684)
