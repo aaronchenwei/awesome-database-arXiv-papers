@@ -4,6 +4,10 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## AI4DB & DB4AI
 
+- [Evaluating the Text-to-SQL Capabilities of Large Language Models](https://arxiv.org/abs/2204.00498)
+- [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
+- [HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing](https://arxiv.org/abs/2203.07376)
+- [Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI](https://arxiv.org/abs/2204.01075)
 - [Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases](https://arxiv.org/abs/2203.14144)
 - [UniSAr: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL](https://arxiv.org/abs/2203.07781)
 - [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
@@ -66,4 +70,18 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 ## Filter
 
 - [Prefix Filter: Practically and Theoretically Better Than Bloom](https://arxiv.org/abs/2203.17139)
-- 
+
+
+## Data Mining
+
+- [Separate and conquer heuristic allows robust mining of contrast sets from various types of data](https://arxiv.org/abs/2204.00497)
+- [Discovering Process Models from Uncertain Event Data](https://arxiv.org/abs/1909.11567)
+
+## Query
+
+- [QUIP: Query-driven Missing Value Imputation](https://arxiv.org/abs/2204.00108)
+- [Givens QR Decomposition over Relational Databases](https://arxiv.org/abs/2204.00525)
+
+## MISC
+
+- [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
