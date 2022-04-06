@@ -82,6 +82,6 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 - [QUIP: Query-driven Missing Value Imputation](https://arxiv.org/abs/2204.00108)
 - [Givens QR Decomposition over Relational Databases](https://arxiv.org/abs/2204.00525)
 
-## MISC
+## Privacy Computing
 
 - [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
