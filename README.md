@@ -1,4 +1,6 @@
-<font size="+8"><center><b>awesome-database-arXiv-papers</b></center></font>
+<!-- omit in toc -->
+awesome-database-arXiv-papers
+===
 
 
 A curated list of awesome arXiv papers on database. https://arxiv.org/
@@ -7,7 +9,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 1. AI4DB & DB4AI
 
-[Sub List](AI4DB&DB4AI/README.md)
+[Click Here to View More](AI4DB&DB4AI/README.md)
 
 # 2. Text-to-SQL
 
