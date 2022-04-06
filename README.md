@@ -3,6 +3,8 @@ awesome-database-arXiv-papers
 
 A curated list of awesome arXiv papers on database. https://arxiv.org/
 
+---
+
 # 1. AI4DB & DB4AI
 
 - [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
