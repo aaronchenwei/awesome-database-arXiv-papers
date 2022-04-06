@@ -1,8 +1,10 @@
-# 1. awesome-database-arXiv-papers
+awesome-database-arXiv-papers
+
+---
 
 A curated list of awesome arXiv papers on database. https://arxiv.org/
 
-## 1.1. AI4DB & DB4AI
+# 1. AI4DB & DB4AI
 
 - [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
 - [Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI](https://arxiv.org/abs/2204.01075)
@@ -10,14 +12,14 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 - [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
 - [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
 
-### 1.1.1. Text-to-SQL
+## 1.1. Text-to-SQL
 
 - [Evaluating the Text-to-SQL Capabilities of Large Language Models](https://arxiv.org/abs/2204.00498)
 - [HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing](https://arxiv.org/abs/2203.07376)
 - [UniSAr: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL](https://arxiv.org/abs/2203.07781)
 
 
-## 1.2. Graph Processing
+# 2. Graph Processing
 
 - [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://arxiv.org/abs/2201.10051)
 - [Triangle and Four Cycle Counting with Predictions in Graph Streams](https://arxiv.org/abs/2203.09572)
@@ -34,55 +36,55 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 - [Banyan: A Scoped Dataflow Engine for Graph Query Service](https://arxiv.org/abs/2202.12530)
 - [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/abs/1910.09017)
 
-## 1.3. Stream Processing
+# 3. Stream Processing
 
 - [To Migrate or not to Migrate: An Analysis of Operator Migration in Distributed Stream Processing](https://arxiv.org/abs/2203.03501)
 - [The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection](https://arxiv.org/abs/2203.09619)
 - [Factor Windows: Cost-based Query Rewriting for Optimizing Correlated Window Aggregates](https://arxiv.org/abs/2008.12379)
 
-## 1.4. LSM Tree
+# 4. LSM Tree
 
 - [Constructing and Analyzing the LSM Compaction Design Space](https://arxiv.org/abs/2202.04522)
 - [Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems](https://arxiv.org/abs/2004.10360)
 
-## 1.5. Cloud
+# 5. Cloud
 
 - [#1](../../issues/1) - [BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud](https://arxiv.org/abs/2203.11472)
 
-## 1.6. New Hardware
+# 6. New Hardware
 
 - #2 - [Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory](https://arxiv.org/abs/2112.07320)
 - [How to use Persistent Memory in your Database](https://arxiv.org/abs/2112.00425)
 - [Relational Memory: Native In-Memory Accesses on Rows and Columns](https://arxiv.org/abs/2109.14349)
 
-## 1.7. KV Stores
+# 7. KV Stores
 
 - [Palpatine: Mining Frequent Sequences for Data Prefetching in NoSQL Distributed Key-Value Stores](https://arxiv.org/abs/2002.00215)
 
-## 1.8. Benchmark
+# 8. Benchmark
 
 - [The LDBC Social Network Benchmark](https://arxiv.org/abs/2001.02299)
 - [The LDBC Graphalytics Benchmark](https://arxiv.org/abs/2011.15028)
 - [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://arxiv.org/abs/2203.16095)
 
-## 1.9. Incremental view maintenance
+# 9. Incremental view maintenance
 
 - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://arxiv.org/abs/2203.16684)
 
-## 1.10. Filter
+# 10. Filter
 
 - [Prefix Filter: Practically and Theoretically Better Than Bloom](https://arxiv.org/abs/2203.17139)
 
-## 1.11. Data Mining
+# 11. Data Mining
 
 - [Separate and conquer heuristic allows robust mining of contrast sets from various types of data](https://arxiv.org/abs/2204.00497)
 - [Discovering Process Models from Uncertain Event Data](https://arxiv.org/abs/1909.11567)
 
-## 1.12. Query
+# 12. Query
 
 - [QUIP: Query-driven Missing Value Imputation](https://arxiv.org/abs/2204.00108)
 - [Givens QR Decomposition over Relational Databases](https://arxiv.org/abs/2204.00525)
 
-## 1.13. Privacy Computing
+# 13. Privacy Computing
 
 - #4 - [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
