@@ -4,14 +4,18 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## AI4DB & DB4AI
 
-- [Evaluating the Text-to-SQL Capabilities of Large Language Models](https://arxiv.org/abs/2204.00498)
 - [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
-- [HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing](https://arxiv.org/abs/2203.07376)
 - [Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI](https://arxiv.org/abs/2204.01075)
 - [Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases](https://arxiv.org/abs/2203.14144)
-- [UniSAr: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL](https://arxiv.org/abs/2203.07781)
 - [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
 - [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
+
+### Text-to-SQL
+
+- [Evaluating the Text-to-SQL Capabilities of Large Language Models](https://arxiv.org/abs/2204.00498)
+- [HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing](https://arxiv.org/abs/2203.07376)
+- [UniSAr: A Unified Structure-Aware Autoregressive Language Model for Text-to-SQL](https://arxiv.org/abs/2203.07781)
+
 
 ## Graph Processing
 
@@ -51,7 +55,6 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 - [How to use Persistent Memory in your Database](https://arxiv.org/abs/2112.00425)
 - [Relational Memory: Native In-Memory Accesses on Rows and Columns](https://arxiv.org/abs/2109.14349)
 
-
 ## KV Stores
 
 - [Palpatine: Mining Frequent Sequences for Data Prefetching in NoSQL Distributed Key-Value Stores](https://arxiv.org/abs/2002.00215)
@@ -62,7 +65,6 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 - [The LDBC Graphalytics Benchmark](https://arxiv.org/abs/2011.15028)
 - [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://arxiv.org/abs/2203.16095)
 
-
 ## Incremental view maintenance
 
 - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://arxiv.org/abs/2203.16684)
@@ -70,7 +72,6 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 ## Filter
 
 - [Prefix Filter: Practically and Theoretically Better Than Bloom](https://arxiv.org/abs/2203.17139)
-
 
 ## Data Mining
 
