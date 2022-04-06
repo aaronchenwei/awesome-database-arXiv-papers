@@ -43,7 +43,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## Cloud
 
-- #1 - [BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud](https://arxiv.org/abs/2203.11472)
+- [#1](../../issues/1) - [BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud](https://arxiv.org/abs/2203.11472)
 
 ## New Hardware
 
