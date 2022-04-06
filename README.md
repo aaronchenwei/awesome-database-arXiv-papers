@@ -84,4 +84,4 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 ## Privacy Computing
 
-- [#4] - [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
+- #4 - [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
