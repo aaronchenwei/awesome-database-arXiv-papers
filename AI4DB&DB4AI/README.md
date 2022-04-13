@@ -10,7 +10,7 @@ Image from paper below.
 
 ---
 
-# ArXiv Paper List
+# arXiv Paper List
 
 - [Forecasting SQL Query Cost at Twitter](https://arxiv.org/abs/2204.05529)
 - [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
