@@ -12,8 +12,9 @@ Image from paper below.
 
 # ArXiv Paper List
 
--   [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
--   [Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI](https://arxiv.org/abs/2204.01075)
--   [Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases](https://arxiv.org/abs/2203.14144)
--   [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
--   [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
+- [Forecasting SQL Query Cost at Twitter](https://arxiv.org/abs/2204.05529)
+- [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
+- [Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI](https://arxiv.org/abs/2204.01075)
+- [Demonstrating CAT: Synthesizing Data-Aware Conversational Agents for Transactional Databases](https://arxiv.org/abs/2203.14144)
+- [LlamaTune: Sample-Efficient DBMS Configuration Tuning](https://arxiv.org/abs/2203.05128)
+- [The Case for Learned In-Memory Joins](https://arxiv.org/abs/2111.08824)
