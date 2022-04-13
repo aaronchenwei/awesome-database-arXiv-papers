@@ -90,4 +90,5 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 15. Misc
 
+- [Towards Polyglot Data Stores -- Overview and Open Research Questions](https://arxiv.org/abs/2204.05779)
 - [Benchmarking Apache Arrow Flight -- A wire-speed protocol for data transfer, querying and microservices](https://arxiv.org/abs/2204.03032)
