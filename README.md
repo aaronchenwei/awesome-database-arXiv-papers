@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 <!-- omit in toc -->
-
 # awesome-database-arXiv-papers
+<!-- prettier-ignore-end -->
 
 A curated list of awesome arXiv papers on database. https://arxiv.org/
 

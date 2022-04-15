@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 <!-- omit in toc -->
-
 # AI4DB & DB4AI
+<!-- prettier-ignore-end -->
 
 ![AI4DB & DB4AI](https://user-images.githubusercontent.com/9360415/161900753-6c09a13b-19a3-460d-841b-0216a1d19502.png)
 
@@ -10,7 +11,7 @@ Image from paper below.
 
 ---
 
-# arXiv Paper List
+# 1. arXiv Paper List
 
 - [Forecasting SQL Query Cost at Twitter](https://arxiv.org/abs/2204.05529)
 - [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
