@@ -19,6 +19,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 3. Graph Processing
 
+- [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://arxiv.org/abs/2204.07309)
 - [GGNN: Graph-based GPU Nearest Neighbor Search](https://arxiv.org/abs/1912.01059)
 - [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://arxiv.org/abs/2201.10051)
 - [Triangle and Four Cycle Counting with Predictions in Graph Streams](https://arxiv.org/abs/2203.09572)
