@@ -64,6 +64,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 9. Benchmark
 
+- [SciTS: A Benchmark for Time-Series Database in Scientific Experiments and Industrial Internet of Things](https://arxiv.org/abs/2204.09795)
 - [The LDBC Social Network Benchmark](https://arxiv.org/abs/2001.02299)
 - [The LDBC Graphalytics Benchmark](https://arxiv.org/abs/2011.15028)
 - [OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems](https://arxiv.org/abs/2203.16095)
