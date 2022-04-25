@@ -19,6 +19,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 3. Graph Processing
 
+- [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://arxiv.org/abs/2203.08606)
 - [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://arxiv.org/abs/2204.07309)
 - [GGNN: Graph-based GPU Nearest Neighbor Search](https://arxiv.org/abs/1912.01059)
 - [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://arxiv.org/abs/2201.10051)
@@ -93,6 +94,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 15. Misc
 
+- [Use of Context in Data Quality Management: a Systematic Literature Review](https://arxiv.org/abs/2204.10655)
 - [Online Aggregation based Approximate Query Processing: A Literature Survey](https://arxiv.org/abs/2204.07125)
 - [Towards Polyglot Data Stores -- Overview and Open Research Questions](https://arxiv.org/abs/2204.05779)
 - [Benchmarking Apache Arrow Flight -- A wire-speed protocol for data transfer, querying and microservices](https://arxiv.org/abs/2204.03032)
