@@ -4,6 +4,8 @@
 <!-- prettier-ignore-end -->
 
 # 1. arXiv Paper List
+
+- [Anomaly Detection in Large Labeled Multi-Graph Databases](https://arxiv.org/abs/2010.03600)
 - [Taming Hybrid-Cloud Fast and Scalable Graph Analytics at Twitter](https://arxiv.org/abs/2204.11338)
 - [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://arxiv.org/abs/2203.08606)
 - [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://arxiv.org/abs/2204.07309)
