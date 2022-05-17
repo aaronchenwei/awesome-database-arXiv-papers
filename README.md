@@ -13,6 +13,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 2. Text-to-SQL
 
+- [RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL](https://arxiv.org/abs/2205.06983)
 - [Weakly Supervised Text-to-SQL Parsing through Question Decomposition](https://arxiv.org/abs/2112.06311)
 - [Evaluating the Text-to-SQL Capabilities of Large Language Models](https://arxiv.org/abs/2204.00498)
 - [HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing](https://arxiv.org/abs/2203.07376)
