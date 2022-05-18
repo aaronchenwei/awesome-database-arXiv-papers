@@ -3,7 +3,7 @@
 # Graph
 <!-- prettier-ignore-end -->
 
-# 1. arXiv Paper List
+## arXiv Paper List
 
 - [Fairness-aware Maximal Clique in Large Graphs: Concepts and Algorithms](https://arxiv.org/abs/2107.10025)
 - [Anomaly Detection in Large Labeled Multi-Graph Databases](https://arxiv.org/abs/2010.03600)
