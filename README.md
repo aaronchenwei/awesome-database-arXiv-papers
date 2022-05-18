@@ -49,6 +49,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 8. KV Stores
 
+- [Key-Value Stores on Flash Storage Devices: A Survey](https://arxiv.org/abs/2205.07975)
 - [Palpatine: Mining Frequent Sequences for Data Prefetching in NoSQL Distributed Key-Value Stores](https://arxiv.org/abs/2002.00215)
 
 # 9. Benchmark
