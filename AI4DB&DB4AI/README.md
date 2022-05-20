@@ -11,8 +11,9 @@ Image from paper below.
 
 ---
 
-# 1. arXiv Paper List
+# arXiv Paper List
 
+- [CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm](https://arxiv.org/abs/2103.00858)
 - [LSI: A Learned Secondary Index Structure](https://arxiv.org/abs/2205.05769)
 - [Forecasting SQL Query Cost at Twitter](https://arxiv.org/abs/2204.05529)
 - [Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations](https://arxiv.org/abs/2204.00327)
