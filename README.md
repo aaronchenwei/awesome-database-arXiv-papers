@@ -79,6 +79,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 14. Privacy Computing
 
+- [Differentially Private Linear Sketches: Efficient Implementations and Applications](https://arxiv.org/abs/2205.09873)
 - aaronchenwei/awesome-database-arXiv-papers#4 - [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
 
 # 15. Misc
