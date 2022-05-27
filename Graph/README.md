@@ -5,6 +5,7 @@
 
 ## arXiv Paper List
 
+- [GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation](https://arxiv.org/abs/2205.12078)
 - [Fairness-aware Maximal Clique in Large Graphs: Concepts and Algorithms](https://arxiv.org/abs/2107.10025)
 - [Anomaly Detection in Large Labeled Multi-Graph Databases](https://arxiv.org/abs/2010.03600)
 - [Taming Hybrid-Cloud Fast and Scalable Graph Analytics at Twitter](https://arxiv.org/abs/2204.11338)
