@@ -43,6 +43,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 7. New Hardware
 
+- [Efficient Compactions Between Storage Tiers with PrismDB](https://arxiv.org/abs/2008.02352)
 - aaronchenwei/awesome-database-arXiv-papers#2 - [Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory](https://arxiv.org/abs/2112.07320)
 - [How to use Persistent Memory in your Database](https://arxiv.org/abs/2112.00425)
 - [Relational Memory: Native In-Memory Accesses on Rows and Columns](https://arxiv.org/abs/2109.14349)
