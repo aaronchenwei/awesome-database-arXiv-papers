@@ -5,6 +5,7 @@
 
 ## arXiv Paper List
 
+- [Temporal graph patterns by timed automata](https://arxiv.org/abs/2205.14269)
 - [Efficient Semantic Summary Graphs for Querying Large Knowledge Graphs](https://arxiv.org/abs/2205.13883)
 - [GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation](https://arxiv.org/abs/2205.12078)
 - [Fairness-aware Maximal Clique in Large Graphs: Concepts and Algorithms](https://arxiv.org/abs/2107.10025)
