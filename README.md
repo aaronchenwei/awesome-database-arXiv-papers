@@ -87,6 +87,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 15. Misc
 
+- [Sparx: Distributed Outlier Detection at Scale](https://arxiv.org/abs/2206.01281)
 - [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
 - [MATE: Multi-Attribute Table Extraction](https://arxiv.org/abs/2110.00318)
 - [Enabling High-Performance and Energy-Efficient Hybrid Transactional/Analytical Databases with Hardware/Software Cooperation](https://arxiv.org/abs/2204.11275)
