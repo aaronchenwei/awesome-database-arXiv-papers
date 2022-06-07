@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
 <!-- omit in toc -->
-# Graph
+# Graph Paper List
 <!-- prettier-ignore-end -->
 
-## arXiv Paper List
+## Graph 
 
 - [Temporal graph patterns by timed automata](https://arxiv.org/abs/2205.14269)
 - [Efficient Semantic Summary Graphs for Querying Large Knowledge Graphs](https://arxiv.org/abs/2205.13883)
@@ -28,3 +28,8 @@
 - [G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs](https://arxiv.org/abs/2203.06393)
 - [Banyan: A Scoped Dataflow Engine for Graph Query Service](https://arxiv.org/abs/2202.12530)
 - [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/abs/1910.09017)
+
+## Benchmark
+
+- [The LDBC Social Network Benchmark](https://arxiv.org/abs/2001.02299)
+- [The LDBC Graphalytics Benchmark](https://arxiv.org/abs/2011.15028)
