@@ -3,8 +3,9 @@
 # Graph Paper List
 <!-- prettier-ignore-end -->
 
-## Graph 
+## Graph
 
+- [Summarizing Labeled Multi-Graphs](https://arxiv.org/abs/2206.07674)
 - [Nebula Graph: An open source distributed graph database](https://arxiv.org/abs/2206.07278)
 - [Temporal graph patterns by timed automata](https://arxiv.org/abs/2205.14269)
 - [Efficient Semantic Summary Graphs for Querying Large Knowledge Graphs](https://arxiv.org/abs/2205.13883)
