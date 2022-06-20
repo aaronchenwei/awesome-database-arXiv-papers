@@ -5,6 +5,8 @@
 
 ## Graph
 
+- [GDsmith: Detecting Bugs in Graph Database Engines](https://arxiv.org/abs/2206.08530)
+- [GraphScale: Scalable Bandwidth-Efficient Graph Processing on FPGAs](https://arxiv.org/abs/2206.08432)
 - [Summarizing Labeled Multi-Graphs](https://arxiv.org/abs/2206.07674)
 - [Nebula Graph: An open source distributed graph database](https://arxiv.org/abs/2206.07278)
 - [Temporal graph patterns by timed automata](https://arxiv.org/abs/2205.14269)
