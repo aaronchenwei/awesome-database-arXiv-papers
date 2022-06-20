@@ -8,7 +8,7 @@ trim_trailing_whitespace = true
 
 [*.{md,txt}]
 indent_style = space
-indent_size = 2
+indent_size = 4
 trim_trailing_whitespace = false
 
 [Makefile]
