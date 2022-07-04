@@ -23,7 +23,7 @@
 - [Brooks' Theorem in Graph Streams: A Single-Pass Semi-Streaming Algorithm for Δ -Coloring](https://arxiv.org/abs/2203.10984)
 - [GraphBLAS on the Edge: High Performance Streaming of Network Traffic](https://arxiv.org/abs/2203.13934)
 - [Approximately Counting Subgraphs in Data Streams](https://arxiv.org/abs/2203.14225)
-- aaronchenwei/awesome-database-arXiv-papers#3 - [GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams](https://arxiv.org/abs/2203.14927)
+- [GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams](https://arxiv.org/abs/2203.14927)
 - [An I/O-Efficient Disk-based Graph System for Scalable Second-Order Random Walk of Large Graphs](https://arxiv.org/abs/2203.16123)
 - [Regular Path Query Evaluation Sharing a Reduced Transitive Closure Based on Graph Reduction](https://arxiv.org/abs/2111.06918)
 - [Biolink Model: A Universal Schema for Knowledge Graphs in Clinical, Biomedical, and Translational Science](https://arxiv.org/abs/2203.13906)

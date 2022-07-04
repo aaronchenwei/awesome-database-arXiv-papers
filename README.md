@@ -40,14 +40,14 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 # 6. Cloud
 
 - [Sigma Workbook: A Spreadsheet for Cloud Data Warehouses](https://arxiv.org/abs/2204.03128)
-- aaronchenwei/awesome-database-arXiv-papers#1- [BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud](https://arxiv.org/abs/2203.11472)
+- [BigBird: Big Data Storage and Analytics at Scale in Hybrid Cloud](https://arxiv.org/abs/2203.11472)
 
 # 7. New Hardware
 
 - [Heterogeneous Data-Centric Architectures for Modern Data-Intensive Applications: Case Studies in Machine Learning and Databases](https://arxiv.org/abs/2205.14664)
 - [Writes Hurt: Lessons in Cache Design for Optane NVRAM](https://arxiv.org/abs/2205.14122)
 - [Efficient Compactions Between Storage Tiers with PrismDB](https://arxiv.org/abs/2008.02352)
-- aaronchenwei/awesome-database-arXiv-papers#2 - [Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory](https://arxiv.org/abs/2112.07320)
+- [Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory](https://arxiv.org/abs/2112.07320)
 - [How to use Persistent Memory in your Database](https://arxiv.org/abs/2112.00425)
 - [Relational Memory: Native In-Memory Accesses on Rows and Columns](https://arxiv.org/abs/2109.14349)
 
@@ -82,7 +82,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 # 14. Privacy Computing
 
 - [Differentially Private Linear Sketches: Efficient Implementations and Applications](https://arxiv.org/abs/2205.09873)
-- aaronchenwei/awesome-database-arXiv-papers#4 - [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
+- [LDP-IDS: Local Differential Privacy for Infinite Data Streams](https://arxiv.org/abs/2204.00526)
 
 # 15. Misc
 
