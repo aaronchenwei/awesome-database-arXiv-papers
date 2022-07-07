@@ -25,6 +25,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 4. Stream Processing
 
+- [Blink: Lightweight Sample Runs for Cost Optimization of Big Data Applications](https://arxiv.org/abs/2207.02290)
 - [StreamingHub: Interactive Stream Analysis Workflows](https://arxiv.org/abs/2205.01573)
 - [In-Order Sliding-Window Aggregation in Worst-Case Constant Time](https://arxiv.org/abs/2009.13768)
 - [Sub-O(log n) Out-of-Order Sliding-Window Aggregation](https://arxiv.org/abs/2009.13768)
