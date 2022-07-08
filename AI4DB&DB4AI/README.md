@@ -13,6 +13,7 @@ Image from paper below.
 
 # arXiv Paper List
 
+- [Are Updatable Learned Indexes Ready?](https://arxiv.org/abs/2207.02900)
 - [The "AI+R"-tree: An Instance-optimized R-tree](https://arxiv.org/abs/2207.00550)
 - [CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm](https://arxiv.org/abs/2103.00858)
 - [LSI: A Learned Secondary Index Structure](https://arxiv.org/abs/2205.05769)
