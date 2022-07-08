@@ -45,6 +45,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 7. New Hardware
 
+- [The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation](https://arxiv.org/abs/2207.03027)
 - [Heterogeneous Data-Centric Architectures for Modern Data-Intensive Applications: Case Studies in Machine Learning and Databases](https://arxiv.org/abs/2205.14664)
 - [Writes Hurt: Lessons in Cache Design for Optane NVRAM](https://arxiv.org/abs/2205.14122)
 - [Efficient Compactions Between Storage Tiers with PrismDB](https://arxiv.org/abs/2008.02352)
