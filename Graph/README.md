@@ -5,6 +5,7 @@
 
 ## Graph
 
+- [Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs](https://arxiv.org/abs/2207.06887)
 - [PandaDB: Understanding Unstructured Data in Graph Database](https://arxiv.org/abs/2107.01963)
 - [GDsmith: Detecting Bugs in Graph Database Engines](https://arxiv.org/abs/2206.08530)
 - [GraphScale: Scalable Bandwidth-Efficient Graph Processing on FPGAs](https://arxiv.org/abs/2206.08432)
