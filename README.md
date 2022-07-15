@@ -88,6 +88,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 15. Misc
 
+- [Using Fuzzy Matching of Queries to optimize Database workloads](https://arxiv.org/abs/2207.06820)
 - [C5: Cloned Concurrency Control that Always Keeps Up](https://arxiv.org/abs/2207.02746)
 - [Sparx: Distributed Outlier Detection at Scale](https://arxiv.org/abs/2206.01281)
 - [Deep Learning in Business Analytics: A Clash of Expectations and Reality](https://arxiv.org/abs/2205.09337)
