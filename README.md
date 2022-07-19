@@ -88,6 +88,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 15. Misc
 
+- [HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints](https://arxiv.org/abs/2207.07940)
 - [Real-Time LSM-Trees for HTAP Workloads](https://arxiv.org/abs/2101.06801)
 - [Using Fuzzy Matching of Queries to optimize Database workloads](https://arxiv.org/abs/2207.06820)
 - [C5: Cloned Concurrency Control that Always Keeps Up](https://arxiv.org/abs/2207.02746)
