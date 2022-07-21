@@ -5,6 +5,7 @@
 
 ## Graph
 
+- [NetFlow Datasets for Machine Learning-based Network Intrusion Detection Systems](https://arxiv.org/abs/2011.09144)
 - [An In-Depth Study of Continuous Subgraph Matching](https://arxiv.org/abs/2203.06913)
 - [DB-LSH: Locality-Sensitive Hashing with Query-based Dynamic Bucketing](https://arxiv.org/abs/2207.07823)
 - [Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs](https://arxiv.org/abs/2207.06887)
