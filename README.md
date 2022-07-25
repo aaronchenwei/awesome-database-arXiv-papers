@@ -88,6 +88,7 @@ A curated list of awesome arXiv papers on database. https://arxiv.org/
 
 # 15. Misc
 
+- [bloomRF: On Performing Range-Queries in Bloom-Filters with Piecewise-Monotone Hash Functions and Prefix Hashing](https://arxiv.org/abs/2207.04789)
 - [Towards Observability for Production Machine Learning Pipelines](https://arxiv.org/abs/2108.13557)
 - [HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints](https://arxiv.org/abs/2207.07940)
 - [Real-Time LSM-Trees for HTAP Workloads](https://arxiv.org/abs/2101.06801)
