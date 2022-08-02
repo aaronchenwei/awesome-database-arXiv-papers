@@ -5,6 +5,7 @@
 
 ## Graph
 
+- [Optimizing Differentially-Maintained Recursive Queries on Dynamic Graphs](https://arxiv.org/abs/2208.00273)
 - [Representing Paths in Graph Database Pattern Matching](https://arxiv.org/abs/2207.13541)
 - [Temporal Graph Functional Dependencies](https://arxiv.org/abs/2108.08719)
 - [NetFlow Datasets for Machine Learning-based Network Intrusion Detection Systems](https://arxiv.org/abs/2011.09144)
