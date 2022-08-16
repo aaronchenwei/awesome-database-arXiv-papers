@@ -13,6 +13,7 @@ Image from paper below.
 
 # arXiv Paper List
 
+- [Machine Learning with DBOS](https://arxiv.org/abs/2208.05101)
 - [Are Updatable Learned Indexes Ready?](https://arxiv.org/abs/2207.02900)
 - [The "AI+R"-tree: An Instance-optimized R-tree](https://arxiv.org/abs/2207.00550)
 - [CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm](https://arxiv.org/abs/2103.00858)
