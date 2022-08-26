@@ -5,6 +5,7 @@
 
 ## Graph
 
+- [Taming Hybrid-Cloud Fast and Scalable Graph Analytics at Twitter](https://arxiv.org/abs/2204.11338)
 - [Optimizing Differentially-Maintained Recursive Queries on Dynamic Graphs](https://arxiv.org/abs/2208.00273)
 - [Representing Paths in Graph Database Pattern Matching](https://arxiv.org/abs/2207.13541)
 - [Temporal Graph Functional Dependencies](https://arxiv.org/abs/2108.08719)
